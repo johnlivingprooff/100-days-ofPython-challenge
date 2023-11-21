@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Day 2 - #100DaysofPython
+For Learning Purposes"""
 
 
 # User input
