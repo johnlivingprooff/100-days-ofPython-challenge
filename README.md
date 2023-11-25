@@ -1,2 +1,13 @@
-# 100-days-ofPython-challenge
-This is to show my progress on the 100-days-ofPython with Angela Yu's course
+# 100 Days of Python Code
+
+I've embarked on this journey of [#100DaysOfCode](https://twitter.com/ola0luwajj/status/1726730858864824555) challenge to improve my coding skills in Python, and overall to develop as a Software Engineer.
+
+
+## Acknowledgements
+
+ - The Course Curator: [Angela Yu](https://twitter.com/yu_angela)
+ - My Excellent accountability peers
+## Authors
+
+- [@johnlivingprooff](https://www.github.com/johnlivingprooff)
+
