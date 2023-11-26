@@ -10,4 +10,3 @@ I've embarked on this journey of [#100DaysOfCode](https://twitter.com/ola0luwajj
 ## Authors
 
 - [@johnlivingprooff](https://www.github.com/johnlivingprooff)
-
