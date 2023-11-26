@@ -1,0 +1,31 @@
+def right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+def jump():
+    turn_left()
+    if not wall_in_front():
+        move()
+    while wall_on_right():
+        if wall_on_right():
+            turn_left()
+        if wall_in_front():
+            turn_left()
+        move()
+    if at_goal():
+        return
+    right()
+    move()
+    right()
+
+while not at_goal():
+    if wall_in_front():
+        jump()
+    elif front_is_clear():
+        if right_is_clear():
+            move()
+        else:
+            move()
+    else:
+        move()
