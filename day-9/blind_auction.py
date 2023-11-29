@@ -21,6 +21,9 @@ while more_bidders == "yes":
 
     more_bidders = input("Are there any other bidders? Type 'yes' or 'no'.\n").lower()
 
+    if more_bidders != "no":
+        more_bidders = input("Type 'yes' or 'no' !.\n").lower()
+
     if more_bidders == "yes":
         os.system('clear')
 
