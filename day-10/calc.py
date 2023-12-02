@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This Module contains a Calculator program"""
 from art import logo
+import os
 
 
 #Calculator
@@ -56,7 +57,7 @@ or 'n' to start a new calculation: "
             x = result
         else:
             should_continue = False
-            print("---")
+            os.system('clear')
             calc()
 
 calc()
